@@ -13,11 +13,13 @@
 .fullgreen{
     height: 100vh;
     background-color: green;
+    position: relative;
 }
 
 .fullyellow{
     height: 100vh;
     background-color: yellow;
+    position: relative;
 }
 
 nav ul li{
@@ -43,13 +45,25 @@ nav ul li a{
     border-radius: 50%;
 }
 
-#gialloanchor{
+#gialloAnchor{
     color: rgb(255, 230, 7);
     font-size: 2em;
     margin-left: 5px;
 }
 
-#scarpe1{
+#rossoAnchor{
+    color: rgb(255, 230, 7);
+    font-size: 2em;
+    margin-left: 5px;
+}
+
+#verdeAnchor{
+    color: green;
+    font-size: 2em;
+    margin-left: 5px;
+}
+
+.scarpe{
     height: 300px;
 }
 
