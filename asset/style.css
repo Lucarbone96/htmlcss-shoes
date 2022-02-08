@@ -33,10 +33,10 @@ nav ul li a{
 }
 
 .barra{
-    text-align: right;
     position: fixed;
     top: 10%;
-    right: 5%;  
+    right: 5%;
+    z-index: 1;  
 }
 
 .stile{
