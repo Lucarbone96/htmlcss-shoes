@@ -7,7 +7,6 @@
 .fullred{
     height: 100vh;
     background-color: red;
-    position: relative;
 }
 
 .fullgreen{
@@ -32,17 +31,13 @@ nav ul li a{
 
 .barra{
     text-align: right;
-    position: absolute;  
+    position: fixed;
     top: 10%;
-    right: 5%; 
+    right: 5%;  
 }
 
 .stile{
-    padding: 20px;
+    padding: 25px;
     background-color: white;
     border-radius: 50%;
-    text-align: center;
-    line-height: 20px;
-    margin-right: 20px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
